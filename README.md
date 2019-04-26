@@ -12,7 +12,7 @@
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-🚸 ❯❯ https://github.com/troybot/DYABLO.git && cd DYABLO && chmod +x DYABLO && ./DYABLO
+🚸 ❯❯ git clone https://github.com/troybot/DYABLO.git ;cd DYABLO;chmod +x ins;./ins
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
